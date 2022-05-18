@@ -1,8 +1,8 @@
-// import React from 'react';
+import React from 'react';
 import './App.css';
-import Docs from './components/docs';
+import Docs from './components/Docs';
 
-function App() {
+const App = () => {
   return (
     <Docs />
   );
